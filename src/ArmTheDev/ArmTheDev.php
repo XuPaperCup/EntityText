@@ -10,7 +10,7 @@ use pocketmine\network\mcpe\protocol\{AddEntityPacket, AddItemEntityPacket, Remo
 use pocketmine\math\Vector3;
 use pocketmine\entity\Entity;
 use pocketmine\level\particle\FloatingTextParticle;
-;
+
 class ArmTheDev extends PluginBase implements Listener {
 	
 	public $json;
